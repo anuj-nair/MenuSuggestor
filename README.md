@@ -5,6 +5,13 @@ grain types (salad, rice, roti, pasta, noodle, soup, other-grain) with an option
 (pizza/burger) and guaranteed chicken + tofu coverage. Includes a meal/ingredient catalog you
 maintain yourself, and an editable meal history log.
 
+## Docs
+
+- [docs/architecture.md](docs/architecture.md) — system overview, component breakdown, data model, and key flows (with diagrams)
+- [docs/setup.md](docs/setup.md) — first-time environment setup
+- [docs/running.md](docs/running.md) — dev/prod run modes, tests, CLI tools
+- [docs/api.md](docs/api.md) — REST endpoint reference
+
 ## Stack
 
 - Frontend: React + Vite, plain CSS, `react-router-dom`
